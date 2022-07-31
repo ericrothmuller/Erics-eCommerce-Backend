@@ -16,13 +16,7 @@ Tag.init(
 
     tag_name: {
       type: DataTypes.STRING,
-      allowNull: false,
     },
-
-    products: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-    }
   },
   {
     sequelize,
