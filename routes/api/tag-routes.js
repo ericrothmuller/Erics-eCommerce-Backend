@@ -31,7 +31,7 @@ router.get('/:id', async(req, res) => {
       return
     }
 
-    res.status(200).json(allTags);
+    res.status(200).json(singleTag);
   }
   catch (err) {
     console.log(err);
