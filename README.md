@@ -26,12 +26,12 @@ What things you need to install the software and how to install them.
 * [Git](https://git-scm.com/downloads)
 * [GitHub](https://github.com/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
-* [Node] (https://nodejs.org/en/)
-* [MYSQL] (https://www.mysql.com/)
-* [Express] (https://www.npmjs.com/package/express)
-* [MYSQL2] (https://www.npmjs.com/package/mysql2)
-* [Sequelize] (https://www.npmjs.com/package/sequelize)
-* [Dotenv] (https://www.npmjs.com/package/dotenv)
+* [Node](https://nodejs.org/en/)
+* [MYSQL](https://www.mysql.com/)
+* [Express](https://www.npmjs.com/package/express)
+* [MYSQL2](https://www.npmjs.com/package/mysql2)
+* [Sequelize](https://www.npmjs.com/package/sequelize)
+* [Dotenv](https://www.npmjs.com/package/dotenv)
 
 
 ## Built With
@@ -42,12 +42,12 @@ What things you need to install the software and how to install them.
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Node] (https://nodejs.org/en/)
-* [MYSQL] (https://www.mysql.com/)
-* [Express] (https://www.npmjs.com/package/express)
-* [MYSQL2] (https://www.npmjs.com/package/mysql2)
-* [Sequelize] (https://www.npmjs.com/package/sequelize)
-* [Dotenv] (https://www.npmjs.com/package/dotenv)
+* [Node](https://nodejs.org/en/)
+* [MYSQL](https://www.mysql.com/)
+* [Express](https://www.npmjs.com/package/express)
+* [MYSQL2](https://www.npmjs.com/package/mysql2)
+* [Sequelize](https://www.npmjs.com/package/sequelize)
+* [Dotenv](https://www.npmjs.com/package/dotenv)
 
 
 ## Demo Video
